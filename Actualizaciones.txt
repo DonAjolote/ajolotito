@@ -1,0 +1,26 @@
+Version "Alpha 2.8"
+
++ Nuevas funciones:
+
+-Se movieron algunos textos a embed
+-Ahora casi todos los mensajes avisan si te intentas autohacer algo
+-Logs de bienvenida
+-Ahora se elimina el mensaje de mensajes eliminados
+
+
++ Nuevos comandos:
+
+-Avatar
+-Welcome
+-Farewell
+-Wel_text
+-Bye_text
+
++ Bugs por arreglar:
+
+-Ban no muestra alerta de no usuario
+
+
++ Comandos removidos:
+
+
